@@ -47,3 +47,4 @@ def configurar_logger(
     return logger
 
 logger = configurar_logger()
+"""Prueba de sincronización."""
